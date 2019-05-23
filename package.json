@@ -1,0 +1,19 @@
+{
+  "name": "history",
+  "version": "1.0.0",
+  "description": "History project website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidane1/historyProject.git"
+  },
+  "author": "Aidan Eglin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidane1/historyProject/issues"
+  },
+  "homepage": "https://github.com/aidane1/historyProject#readme"
+}
